@@ -1,4 +1,4 @@
-# PROJET-Titre---Boutique-en-ligne
+# Boutique-Sub-rosa-art
 
 Dans le cadre du projet pour l'obtention du titre, realisation d'une boutique en ligne, Front-end et Back-end. 
 
